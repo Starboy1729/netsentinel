@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2026-10-25T08:00:00Z",
+    "src_ip": "192.0.2.10",
+    "dst_ip": "198.51.100.20",
+    "protocol": "TCP",
+    "src_port": 51001,
+    "dst_port": 443,
+    "bytes": 1450
+  },
+  {
+    "timestamp": "2026-10-25T08:00:02Z",
+    "src_ip": "192.0.2.11",
+    "dst_ip": "198.51.100.20",
+    "protocol": "TCP",
+    "src_port": 51002,
+    "dst_port": 443,
+    "bytes": 2200
+  },
+  {
+    "timestamp": "2026-10-25T08:00:04Z",
+    "src_ip": "192.0.2.10",
+    "dst_ip": "198.51.100.30",
+    "protocol": "UDP",
+    "src_port": 53000,
+    "dst_port": 53,
+    "bytes": 180
+  },
+  {
+    "timestamp": "2026-10-25T08:00:06Z",
+    "src_ip": "192.0.2.12",
+    "dst_ip": "198.51.100.20",
+    "protocol": "TCP",
+    "src_port": 51003,
+    "dst_port": 22,
+    "bytes": 900
+  },
+  {
+    "timestamp": "2026-10-25T08:00:08Z",
+    "src_ip": "192.0.2.10",
+    "dst_ip": "198.51.100.30",
+    "protocol": "UDP",
+    "src_port": 53001,
+    "dst_port": 53,
+    "bytes": 120
+  },
+  {
+    "timestamp": "2026-10-25T08:00:10Z",
+    "src_ip": "192.0.2.13",
+    "dst_ip": "198.51.100.20",
+    "protocol": "ICMP",
+    "src_port": null,
+    "dst_port": null,
+    "bytes": 64
+  }
+]
